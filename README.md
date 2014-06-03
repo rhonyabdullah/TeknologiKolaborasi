@@ -1,5 +1,5 @@
 # PENYAKIT TUBERKOLOSIS
-> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
+> Topik presentasi ini membahas tentang penyakit Tuberkulosis yang merupakan salah satu penyebab kematian di negara-negara berkembang yang disebabkan oleh bakteri  mycobacterium tubercolosis. 
 
 ## Cara melihat slide di komputer lokal
 > Jika OS yang digunakan adalah linux langsung saja di terminal lebih aman pakai sudo su, tapi jika OS-nya windows perlu bolak balik ganti shell :p ,
@@ -24,6 +24,8 @@ $ grunt server --force
 ```
 > kemudian ketikkan pada browser chrome anda secara manual di: 
 > localhost:8000
+
+> [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 #Informasi TIM
 
