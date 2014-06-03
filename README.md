@@ -36,3 +36,5 @@ $ grunt server --force
 > 2. Hara Gabe Lumbantoruan	   	: 101112045
 > 3. Rhony Abdullah Siagian	  	: 101111589
 > 4. Ruben Alfredo Tampubolon	  : 101112428
+
+> Find our project in [trello](https://trello.com/b/rt2fZF7Q/teknologi-kolaborasi)
